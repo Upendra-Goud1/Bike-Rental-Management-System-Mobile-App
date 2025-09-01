@@ -94,23 +94,36 @@ A cross-platform mobile application for renting bikes, built using **React Nativ
 ### 🏠 Home Screen
 Displays all available bikes for rent with images, names, and prices.
 
+![home](https://github.com/user-attachments/assets/ddcfc76e-0963-4a80-96ff-1267bc5e55d6)
+
 ### 💳 Payment Screen
 Booking summary with option to make payment.
+
+![payment screen](https://github.com/user-attachments/assets/a72c9465-d54b-49d2-b837-4441a7f24de9)
 
 ### ✅ Payment Successful
 Confirms booking with details and success message.
 
+![Payment Successful Confirmation](https://github.com/user-attachments/assets/53461144-32ad-470e-abed-728556dd7113)
+
 ### 🔑 Login & Registration
 Secure user login/signup.
 
+![Login](https://github.com/user-attachments/assets/bf390d23-ed16-4b73-891a-5ed99a0a623c)
+
+![Registration Screen](https://github.com/user-attachments/assets/3c5bcf2d-71a6-4064-80c5-f08c2eb8daed)
+
 ### 📝 List Your Bike – Owner Form
 Bike owners submit name, email, UPI, city, and bike count.
+
+![List Your Bike](https://github.com/user-attachments/assets/e52ea1c2-5ca1-4958-b05c-c3cac0ff8fde)
 
 ### 📝 Approved Bike Listing Form
 Submit full bike details with Cloudinary image upload.
 
 ### ☁️ Cloudinary Upload
 Preview image before final submission.
+![Upload Bike IMG](https://github.com/user-attachments/assets/81848d46-5599-4a79-8a81-36c26ef1b125)
 
 ### 📩 Contact Us & FAQ
 Support and common query section.
